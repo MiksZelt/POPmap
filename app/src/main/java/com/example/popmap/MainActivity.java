@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.print("Kurwa");
         System.out.println("Šašulis mazulis");
+        System.out.println("mama mia");
     }
 }
