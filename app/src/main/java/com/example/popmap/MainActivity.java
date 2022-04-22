@@ -10,8 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        System.out.print("Kurwa");
-        System.out.println("Šašulis mazulis");
-        System.out.println("mama mia");
+        //TODO pamats čatam
+
     }
 }
